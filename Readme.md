@@ -1,1 +1,1 @@
-# Unofficial Technische Universitaet Graz Github For Course Material
+# Unofficial Graz University of Technology
